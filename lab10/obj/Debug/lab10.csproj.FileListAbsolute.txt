@@ -1,0 +1,8 @@
+C:\Users\artemmezencev\source\repos\lab10\lab10\bin\Debug\lab10.exe.config
+C:\Users\artemmezencev\source\repos\lab10\lab10\bin\Debug\lab10.exe
+C:\Users\artemmezencev\source\repos\lab10\lab10\bin\Debug\lab10.pdb
+C:\Users\artemmezencev\source\repos\lab10\lab10\obj\Debug\lab10.csproj.AssemblyReference.cache
+C:\Users\artemmezencev\source\repos\lab10\lab10\obj\Debug\lab10.csproj.SuggestedBindingRedirects.cache
+C:\Users\artemmezencev\source\repos\lab10\lab10\obj\Debug\lab10.csproj.CoreCompileInputs.cache
+C:\Users\artemmezencev\source\repos\lab10\lab10\obj\Debug\lab10.exe
+C:\Users\artemmezencev\source\repos\lab10\lab10\obj\Debug\lab10.pdb
